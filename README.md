@@ -1,4 +1,4 @@
-# Arithmetic Sequence Term Finder
+# Arithmetic Sequence Finder
 
 An x86-64 assembly routine that calculates a specified term of an arithmetic
 sequence using the formula:
